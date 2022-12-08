@@ -7,4 +7,5 @@
 ---
 ## ---Wanna repeat---
 
-![Captura de pantalla (84)](https://user-images.githubusercontent.com/92037725/206339844-73be864d-bb95-4a66-9d0e-6f58af1212a5.png)
+
+![Captura de pantalla (83)](https://user-images.githubusercontent.com/92037725/206339914-7452df0f-27a3-4f6e-85a5-efa13a95ec41.png)
